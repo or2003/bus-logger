@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>This app needs location access to record GPS data during your bus rides for motion analysis.</string>
+    <key>NSMotionUsageDescription</key>
+    <string>This app needs motion sensor access to record IMU data during your bus rides.</string>
+    <key>CFBundleDisplayName</key>
+    <string>Bus Logger</string>
+</dict>
+</plist>
